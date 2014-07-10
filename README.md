@@ -6,6 +6,7 @@ Are you a biology major and want to strengthen your programming skills, well the
 
 
 Do you have a project you want to post? Send me and email and I will post it here. 
+
 Did you complete one of the projects? Email me so that we can post a link to your solution.
 
 
