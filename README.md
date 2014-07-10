@@ -1,6 +1,6 @@
 Large Scale PSG Analysis Student Projects
 =========================================
-Thinking about and studying sleep is interesting and fun.  What is great about sleep research is that it requires people with a wide range of talents working together to approach problems. The projects are targeted at interdisciplinary types, engineers and computer scientists. All of the projects require programming.  
+What is great about sleep research is that it requires people with a wide range of talents working together to approach problems. The projects described below are targeted at interdisciplinary types, engineers and computer scientists. All of the projects require programming.  
 
 Are you a biology major and want to strengthend your programming skills, well there will be projects for you too. I suggest you start with a tutorial for your language of choice.  Python and JAVA are the most popular languages.  MATLAB is my language of choice.  The projects could be developed in many different language. Coders of all types are welcome 
 
