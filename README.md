@@ -1,9 +1,8 @@
 Large Scale PSG Analysis Student Projects
 =========================================
-The motivation for the projects described below is to help make analyzing thousands of sleep studies common place. The projects are targeted at interdisciplinary types, engineers and computer scientists. All of the projects require programming. The projects could be developed in many different language. 
+Making the analysis of thousands of sleep studies common place is the motivation for the projects described below. The projects are targeted at interdisciplinary types, engineers and computer scientists. All of the projects require programming. The projects could be developed in many different programming languages. 
 
 Are you a biology major and want to strengthen your programming skills, well there will be projects for you too. I suggest you start with a tutorial for your language of choice.  Python and JAVA are the most popular languages. MATLAB is my language of choice. There may be a slight bias for the selection of examples that include MATLAB source code.
-
 
 Do you have a project you want to post? Send me and email and I will post it here. 
 
