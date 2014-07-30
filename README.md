@@ -33,7 +33,11 @@ Why do this? Increasinlyg efficent software is often the analysis bottleneck. My
 #### Signal Specific Problem
 The current EDF software tool set I have developed ([Data Access and Visualization for Sleep](https://github.com/DennisDean/DAVS-Toolbox/blob/master/README.md)) makes access of data in an EDF file pretty straight forward. I see the next steps to include developing signal specific add-ons/extensions to the EDF loader. [Physionet](http://www.physionet.org/) had a bunch of signal processing tools that can be used to do a wide range of analyes from the most common platforms (PC, Macintosh, Unix). 
 
-7. Adapt the EEG Spectral Analysis Program to Perform ECG HRV analysis. 
+7. **Adapt the EEG Spectral Analysis Program to Perform ECG HRV analysis**. 
+
+#### Traditional Sleep Analysis Tools.
+
+8. **Add Sleep staging functionality to the [EDF Viewer](https://sleepdata.org/tools/edf-viewer)**.
 
 #### Cognitive Assessment
 
